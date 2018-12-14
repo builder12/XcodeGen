@@ -8,7 +8,7 @@ struct Logger {
     let isQuiet: Bool
     let isColored: Bool
 
-    // MARK: - Initializers
+     MARK: - Initializers
 
     init(isQuiet: Bool = false, isColored: Bool = true) {
         self.isQuiet = isQuiet
