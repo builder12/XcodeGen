@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>032EA370-9E72-4BF5-8270-844C4DB6C500</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>032EA370-9E72-4BF5-8270-844C4DB6C500.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>XcodeGen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PathKit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build PathKit</string>
+			<key>timeStartedRecording</key>
+			<real>566513091.31316495</real>
+			<key>timeStoppedRecording</key>
+			<real>566513093.04185903</real>
+			<key>title</key>
+			<string>Build PathKit</string>
+			<key>uniqueIdentifier</key>
+			<string>032EA370-9E72-4BF5-8270-844C4DB6C500</string>
+		</dict>
+		<key>D0BB61FD-983C-41D7-9D88-DFC59803CFA6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D0BB61FD-983C-41D7-9D88-DFC59803CFA6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>XcodeGen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>XcodeGen-Package</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build XcodeGen-Package</string>
+			<key>timeStartedRecording</key>
+			<real>566479142.43273497</real>
+			<key>timeStoppedRecording</key>
+			<real>566479142.51102602</real>
+			<key>title</key>
+			<string>Build XcodeGen-Package</string>
+			<key>uniqueIdentifier</key>
+			<string>D0BB61FD-983C-41D7-9D88-DFC59803CFA6</string>
+		</dict>
+		<key>EE29EAA4-30AA-4E4C-AA63-FF5A49128AE1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EE29EAA4-30AA-4E4C-AA63-FF5A49128AE1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>XcodeGen project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>XcodeGen-Package</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build XcodeGen-Package</string>
+			<key>timeStartedRecording</key>
+			<real>566513073.84145796</real>
+			<key>timeStoppedRecording</key>
+			<real>566513075.55732</real>
+			<key>title</key>
+			<string>Build XcodeGen-Package</string>
+			<key>uniqueIdentifier</key>
+			<string>EE29EAA4-30AA-4E4C-AA63-FF5A49128AE1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

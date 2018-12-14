@@ -1,0 +1,86 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9543052FC526EA050BECD88A120F48DCCC776E16",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A480BB2849036CF504F1F2E5D43B67BE59D35121" : 0,
+    "1B9E61546D4F9511D800AE955CDC56CD3D276E5C" : 0,
+    "9543052FC526EA050BECD88A120F48DCCC776E16" : 0,
+    "5441F5A06973B7C5DCFB2F409C92105EFA8EF303" : 0,
+    "ADDC1206D78F8ACCD31EF2DB60D08A98EF203A7E" : 0,
+    "419DF1B9522022C975F034AD3286151764923B4B" : 0,
+    "E3472B155FC961329A2EA7BFAD3AFAE6EFBD63E5" : 0,
+    "BF7C67668F4701C0AE5156F0E6F0CA70C1C6C61F" : 0,
+    "222626D28F6F2D261853F434D1FFEBC546CCC393" : 0,
+    "D591987028BFCE350CA11D7DA7F1AE9C4373C207" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DE6F5CDF-CFDF-4E08-9C4D-4E0E9343BC91",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A480BB2849036CF504F1F2E5D43B67BE59D35121" : "XcodeGen\/.build\/checkouts\/AEXML--3195965638848239778\/",
+    "1B9E61546D4F9511D800AE955CDC56CD3D276E5C" : "XcodeGen\/.build\/checkouts\/Yams.git--7044885431310844824\/",
+    "9543052FC526EA050BECD88A120F48DCCC776E16" : "XcodeGen\/",
+    "5441F5A06973B7C5DCFB2F409C92105EFA8EF303" : "XcodeGen\/.build\/checkouts\/Commander.git-8648931492316153869\/",
+    "ADDC1206D78F8ACCD31EF2DB60D08A98EF203A7E" : "XcodeGen\/.build\/checkouts\/JSONUtilities.git-8902649987465148754\/",
+    "419DF1B9522022C975F034AD3286151764923B4B" : "XcodeGen\/.build\/checkouts\/Rainbow.git--7408319604601990561\/",
+    "E3472B155FC961329A2EA7BFAD3AFAE6EFBD63E5" : "XcodeGen\/.build\/checkouts\/PathKit.git-1320724305248184081\/",
+    "BF7C67668F4701C0AE5156F0E6F0CA70C1C6C61F" : "XcodeGen\/.build\/checkouts\/SwiftShell-6727265174600152453\/",
+    "222626D28F6F2D261853F434D1FFEBC546CCC393" : "XcodeGen\/.build\/checkouts\/xcodeproj.git--1341786028451189564\/",
+    "D591987028BFCE350CA11D7DA7F1AE9C4373C207" : "XcodeGen\/.build\/checkouts\/Spectre.git-2412734069506832588\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XcodeGen",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XcodeGen.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/mac-pro-office\/XcodeGen\/.build\/repositories\/Yams.git--7044885431310844824",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1B9E61546D4F9511D800AE955CDC56CD3D276E5C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/mac-pro-office\/XcodeGen\/.build\/repositories\/xcodeproj.git--1341786028451189564",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "222626D28F6F2D261853F434D1FFEBC546CCC393"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/mac-pro-office\/XcodeGen\/.build\/repositories\/Rainbow.git--7408319604601990561",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "419DF1B9522022C975F034AD3286151764923B4B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/mac-pro-office\/XcodeGen\/.build\/repositories\/Commander.git-8648931492316153869",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5441F5A06973B7C5DCFB2F409C92105EFA8EF303"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yonaskolb\/XcodeGen.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9543052FC526EA050BECD88A120F48DCCC776E16"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/mac-pro-office\/XcodeGen\/.build\/repositories\/AEXML--3195965638848239778",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A480BB2849036CF504F1F2E5D43B67BE59D35121"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/mac-pro-office\/XcodeGen\/.build\/repositories\/JSONUtilities.git-8902649987465148754",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ADDC1206D78F8ACCD31EF2DB60D08A98EF203A7E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/mac-pro-office\/XcodeGen\/.build\/repositories\/SwiftShell-6727265174600152453",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BF7C67668F4701C0AE5156F0E6F0CA70C1C6C61F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/mac-pro-office\/XcodeGen\/.build\/repositories\/Spectre.git-2412734069506832588",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D591987028BFCE350CA11D7DA7F1AE9C4373C207"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/mac-pro-office\/XcodeGen\/.build\/repositories\/PathKit.git-1320724305248184081",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E3472B155FC961329A2EA7BFAD3AFAE6EFBD63E5"
+    }
+  ]
+}
