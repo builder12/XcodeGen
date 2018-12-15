@@ -3,24 +3,24 @@
 <plist version="1.0">
 <array>
 	<string>SwiftGlibc</string>
-	<string>Glibc</string>
-	<string>Darwin</string>
+	<string>Spectre</string>
+	<string>os</string>
 	<string>Dispatch</string>
 	<string>CoreFoundation</string>
 	<string>Rainbow</string>
 	<string>Commander</string>
 	<string>XcodeGenKit</string>
-	<string>os</string>
 	<string>XCTest</string>
+	<string>Glibc</string>
+	<string>Darwin</string>
 	<string>ProjectSpec</string>
-	<string>xcodeproj</string>
-	<string>AEXML</string>
-	<string>Foundation</string>
 	<string>PathKit</string>
+	<string>Foundation</string>
+	<string>xcodeproj</string>
 	<string>PackageDescription</string>
-	<string>JSONUtilities</string>
-	<string>Spectre</string>
+	<string>AEXML</string>
 	<string>Yams</string>
+	<string>JSONUtilities</string>
 	<string>CYaml</string>
 </array>
 </plist>
